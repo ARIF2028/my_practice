@@ -2,19 +2,15 @@
     border: 2px solid black;
     padding: 10px;
     width: fit-content;
+    background-color: rgb(214, 216, 221);
 }
 .display{
-    visibility: hidden;
+    visibility: hidden;   
 }
-#lighting{
-    border: 20px solid teal;
-    padding: 10px ;
+*#lighting{
+    border: 20px solid royalblue;
+    margin-left: 300px;
+    padding: 10px;
     width: 50%;
-    
+    box-shadow: -20px 20px 0px darkgoldenrod;
 }
-* #lighting{
-    margin: 100px;
-    height: fit-content;
-    width: fit-content;
-    box-shadow: -20px 20px 0px  tan;
- }
